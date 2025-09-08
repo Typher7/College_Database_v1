@@ -103,14 +103,13 @@ Designed for use with **MySQL Workbench EER Diagrams**, this schema enforces key
 
 ---
 
-## 🧑‍💻 Authors & License
+## 👥 Contributors
 
-- Author: *Your Name*
-- License: MIT (or any license of your choice)
+- [Enoch Atuahene](https://github.com/Typher7)
+- [William Asante](https://github.com/Kraeon20)
 
 ---
 
 ## 💬 Feedback or Contributions?
 
 Feel free to open an issue or submit a pull request if you’d like to improve or expand this database project!
-
