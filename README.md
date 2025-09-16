@@ -147,7 +147,6 @@ The EER diagram for this project is included as an image. Place the screenshot f
 
 ![EER Diagram](images/Screenshot 2025-09-16 023136.png)
 
-If the image does not appear, ensure you've copied your local file `d:\Pictures\Screenshots\Screenshot 2025-09-16 023136.png` into the repository `images/` folder and commit it.
 
 
 ## �📈 Future Enhancements (Version 2+)
@@ -163,7 +162,7 @@ If the image does not appear, ensure you've copied your local file `d:\Pictures\
 ## 👥 Contributors
 
 * [Enoch Atuahene](https://github.com/Typher7)
-* [William Asante](https://github.com/Kraeon20)
+* [Williams Asante](https://github.com/Kraeon20)
 
 ---
 
