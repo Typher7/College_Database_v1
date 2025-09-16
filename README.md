@@ -141,7 +141,16 @@ Designed for use with **MySQL Workbench EER Diagrams**, this schema enforces key
 
 ---
 
-## 📈 Future Enhancements (Version 2+)
+## �️ EER Diagram
+
+The EER diagram for this project is included as an image. Place the screenshot file in an `images/` folder at the repository root and reference it from here. The expected path is `images/Screenshot 2025-09-16 023136.png`.
+
+![EER Diagram](images/Screenshot 2025-09-16 023136.png)
+
+If the image does not appear, ensure you've copied your local file `d:\Pictures\Screenshots\Screenshot 2025-09-16 023136.png` into the repository `images/` folder and commit it.
+
+
+## �📈 Future Enhancements (Version 2+)
 
 * ✅ Triggers to enforce role-based logic (students vs faculty)
 * ✅ Room booking constraints by time slots
